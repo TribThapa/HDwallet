@@ -1,5 +1,7 @@
 # Multi-Blockchain Wallet in Python
 
+Create a multi-blockchain wallet using the scenario below.
+
 ## Background
 
 Your new startup is focusing on building a portfolio management system that supports not only traditional assets
