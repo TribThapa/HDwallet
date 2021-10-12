@@ -20,7 +20,7 @@ Fund a `BTCTEST` address using [this testnet faucet](https://testnet-faucet.memp
 
 
  <p align="center">
-   	<img src="/HDwallet/Images/1_BTC1.JPG" width="400" height="500">
+   	<img src="/Images/1_BTC1.JPG" width="400" height="500">
  </p>
 
 <p>&nbsp;</p>
