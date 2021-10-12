@@ -32,7 +32,7 @@ Here's another way to send test net BTC using [an alternative testnet faucet](ht
 
 
  <p align="center">
-   	<img src="/HDwallet/Images/2_BTC2.JPG" width="400" height="500">
+   	<img src="/Images/2_BTC2.JPG" width="400" height="500">
  </p>
 
 
@@ -44,7 +44,7 @@ Confirm transaction using [this webpage](https://www.blockchain.com/explorer?vie
 
 
  <p align="center">
-   	<img src="/HDwallet/Images/3_BTC3.JPG" width="400" height="500">
+   	<img src="/Images/3_BTC3.JPG" width="400" height="500">
  </p>
 
 <p>&nbsp;</p>
@@ -55,7 +55,7 @@ Create Proof-of-Authority nodes
 
 
  <p align="center">
-   	<img src="/HDwallet/Images/4_poanodes.JPG">
+   	<img src="/Images/4_poanodes.JPG">
  </p>
 
 <p>&nbsp;</p>
@@ -65,7 +65,7 @@ Create Proof-of-Authority nodes
 Confirm nodes are created in local directory 
 
  <p align="center">
-   	<img src="/HDwallet/Images/5_POA.JPG" width="500" height="300">
+   	<img src="/Images/5_POA.JPG" width="500" height="300">
  </p>
 
 
@@ -76,7 +76,7 @@ Confirm nodes are created in local directory
 Create [python script](https://github.com/TribThapa/MyFinTechHomework/blob/main/Week19_13092021/Assignment/wallet.py) to connect your blockchain with Python
 
  <p align="center">
-   	<img src="/HDwallet/Images/6_WalletFunc.JPG" width="500" height="500">
+   	<img src="/Images/6_WalletFunc.JPG" width="500" height="500">
  </p>
 
 <p>&nbsp;</p>
@@ -86,7 +86,7 @@ Create [python script](https://github.com/TribThapa/MyFinTechHomework/blob/main/
 Add one of the `ETH` addresses to the pre-allocated accounts in your `networkname.json`
 
  <p align="center">
-   	<img src="/HDwallet/Images/7_MatchAddress.JPG">
+   	<img src="/Images/7_MatchAddress.JPG">
  </p>
 
 
@@ -97,7 +97,7 @@ Add one of the `ETH` addresses to the pre-allocated accounts in your `networknam
 Delete the `geth` folder in each node, then re-initialize using `geth --datadir nodeX init networkname.json`.
 
  <p align="center">
-   	<img src="/HDwallet/Images/8_Reinitialised.JPG">
+   	<img src="/Images/8_Reinitialised.JPG">
  </p>
 
 <p>&nbsp;</p>
@@ -107,5 +107,5 @@ Delete the `geth` folder in each node, then re-initialize using `geth --datadir 
 Send a transaction from the pre-funded address within the wallet to another
 
  <p align="center">
-   	<img src="/HDwallet/Images/9_SendToken.JPG">
+   	<img src="/Images/9_SendToken.JPG">
  </p>
